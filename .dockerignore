@@ -1,0 +1,18 @@
+node_modules
+.git
+.gitignore
+*.md
+.env
+.env.local
+.vscode
+.idea
+*.log
+coverage
+__tests__
+dist
+
+# Exclure les scripts de seed (pas nécessaires en production)
+backend/src/scripts/seed*.js
+backend/seed-*.bat
+backend/seed-*.sh
+

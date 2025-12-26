@@ -1,0 +1,112 @@
+LISTE DES URLs - SITE CIPS
+========================================
+Domaine de production : https://csip.up.railway.app
+Domaine local : http://localhost:3000
+
+
+📌 PAGES PRINCIPALES
+========================================
+https://csip.up.railway.app/
+https://csip.up.railway.app/apropos
+https://csip.up.railway.app/contact
+https://csip.up.railway.app/devis
+
+
+⚡ PÔLE ÉNERGIE
+========================================
+https://csip.up.railway.app/poles/energie
+
+
+🛰 PÔLE DONNÉES GÉOSPATIALES
+========================================
+https://csip.up.railway.app/poles/geospatial
+
+
+🚁 PÔLE DRONES (ODS)
+========================================
+https://csip.up.railway.app/poles/drone
+
+
+💻 PÔLE SÉCURITÉ NUMÉRIQUE
+========================================
+https://csip.up.railway.app/poles/securite
+
+
+🩺 PÔLE SANTÉ CONNECTÉE
+========================================
+https://csip.up.railway.app/poles/sante
+
+
+💼 PORTFOLIO & RÉALISATIONS
+========================================
+https://csip.up.railway.app/realisations
+https://csip.up.railway.app/realisations/[id-projet]
+   Exemples:
+   - https://csip.up.railway.app/realisations/673c8d1e2f5a3b4c8d9e1a2b
+   - https://csip.up.railway.app/realisations/673c8d1e2f5a3b4c8d9e1a2c
+
+
+📰 BLOG & ACTUALITÉS
+========================================
+https://csip.up.railway.app/actualites
+https://csip.up.railway.app/actualites/[slug-article]
+   Exemples:
+   - https://csip.up.railway.app/actualites/energie-solaire-gabon-guide-complet
+   - https://csip.up.railway.app/actualites/drones-inspection-infrastructures
+
+
+👥 CARRIÈRES & PARTENARIATS
+========================================
+https://csip.up.railway.app/carrieres
+https://csip.up.railway.app/carrieres/[id-offre]
+   Exemple:
+   - https://csip.up.railway.app/carrieres/673c8d1e2f5a3b4c8d9e1a2d
+
+
+📄 PAGES LÉGALES
+========================================
+https://csip.up.railway.app/mentions-legales
+https://csip.up.railway.app/politique-confidentialite
+https://csip.up.railway.app/cgu
+
+
+🔐 PAGES ADMINISTRATION
+========================================
+https://csip.up.railway.app/admin
+https://csip.up.railway.app/admin/dashboard
+https://csip.up.railway.app/admin/articles
+https://csip.up.railway.app/admin/articles/new
+https://csip.up.railway.app/admin/articles/edit/[id]
+https://csip.up.railway.app/admin/jobs
+https://csip.up.railway.app/admin/jobs/new
+https://csip.up.railway.app/admin/jobs/edit/[id]
+https://csip.up.railway.app/admin/calendar
+https://csip.up.railway.app/admin/settings
+
+
+⏳ PAGES À CRÉER (URLs futures)
+========================================
+https://csip.up.railway.app/poles/energie/particuliers
+https://csip.up.railway.app/poles/energie/professionnels
+https://csip.up.railway.app/poles/energie/comparatif
+https://csip.up.railway.app/simulateur
+https://csip.up.railway.app/poles/geospatial/exemples-cartes
+https://csip.up.railway.app/poles/drone/videos
+https://csip.up.railway.app/poles/drone/formations
+https://csip.up.railway.app/poles/securite/audit
+https://csip.up.railway.app/poles/sante/carte-zones
+https://csip.up.railway.app/faq
+https://csip.up.railway.app/admin/projects
+https://csip.up.railway.app/admin/projects/new
+https://csip.up.railway.app/admin/projects/edit/[id]
+
+
+========================================
+TOTAL : 39 pages
+  ✅ 27 pages créées
+  ⏳ 12 pages à créer
+
+Généré le : 7 novembre 2024
+
+
+

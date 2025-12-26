@@ -1,0 +1,199 @@
+{
+  "drone": [
+    {
+      "id": 1,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497674/cips/poles/drone/drone-1.jpg",
+      "title": "Drone 1",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/_DSC0252_copie.jpg"
+    },
+    {
+      "id": 2,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497676/cips/poles/drone/drone-2.jpg",
+      "title": "Drone 2",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/awendje.jpg"
+    },
+    {
+      "id": 3,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497678/cips/poles/drone/drone-3.jpg",
+      "title": "Drone 3",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DJI_0941_copie.jpg"
+    },
+    {
+      "id": 4,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497680/cips/poles/drone/drone-4.jpg",
+      "title": "Drone 4",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DJI_20250118120544_0171_D_copie.jpg"
+    },
+    {
+      "id": 5,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497685/cips/poles/drone/drone-5.jpg",
+      "title": "Drone 5",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DSC00122.jpg"
+    },
+    {
+      "id": 6,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497688/cips/poles/drone/drone-6.jpg",
+      "title": "Drone 6",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DSC00134.jpg"
+    },
+    {
+      "id": 7,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497690/cips/poles/drone/drone-7.jpg",
+      "title": "Drone 7",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DSC00154.jpg"
+    },
+    {
+      "id": 8,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497694/cips/poles/drone/drone-8.jpg",
+      "title": "Drone 8",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DSC00168.jpg"
+    },
+    {
+      "id": 9,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497699/cips/poles/drone/drone-9.jpg",
+      "title": "Drone 9",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DSC00181.jpg"
+    },
+    {
+      "id": 10,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497704/cips/poles/drone/drone-10.jpg",
+      "title": "Drone 10",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/DSC00187.jpg"
+    },
+    {
+      "id": 11,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497707/cips/poles/drone/drone-11.jpg",
+      "title": "Drone 11",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/IMG_3166.JPG"
+    },
+    {
+      "id": 12,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497709/cips/poles/drone/drone-12.jpg",
+      "title": "Drone 12",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/IMG_3167.JPG"
+    },
+    {
+      "id": 13,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497711/cips/poles/drone/drone-13.jpg",
+      "title": "Drone 13",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/inspection-DJI_20250719194640_0016_D.jpg"
+    },
+    {
+      "id": 14,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497713/cips/poles/drone/drone-14.jpg",
+      "title": "Drone 14",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/mavic3-entreprise.jpg"
+    },
+    {
+      "id": 15,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497714/cips/poles/drone/drone-15.jpg",
+      "title": "Drone 15",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/org_aa66f3d6f495b6a3_1636717610000_copie.jpg"
+    },
+    {
+      "id": 16,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497716/cips/poles/drone/drone-16.jpg",
+      "title": "Drone 16",
+      "originalPath": "/wetransfer_dsc00122-jpg_2025-11-06_1238/surveillance-DJI_20250807173856_0048_V.jpg"
+    }
+  ],
+  "geospatial": [
+    {
+      "id": 1,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497718/cips/poles/geospatial/geospatial-1.jpg",
+      "title": "Orthophotographie 1",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/1.jpg"
+    },
+    {
+      "id": 2,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497719/cips/poles/geospatial/geospatial-2.jpg",
+      "title": "Orthophotographie 2",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/2.jpg"
+    },
+    {
+      "id": 3,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497965/cips/poles/geospatial/geospatial-3.jpg",
+      "title": "Orthophotographie 3",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/3.jpg"
+    },
+    {
+      "id": 4,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497968/cips/poles/geospatial/geospatial-4.jpg",
+      "title": "Orthophotographie 4",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/4.jpg"
+    },
+    {
+      "id": 5,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497971/cips/poles/geospatial/geospatial-5.jpg",
+      "title": "Orthophotographie 5",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/5.jpg"
+    },
+    {
+      "id": 6,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497975/cips/poles/geospatial/geospatial-6.jpg",
+      "title": "Orthophotographie 6",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/6.jpg"
+    },
+    {
+      "id": 7,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497979/cips/poles/geospatial/geospatial-7.jpg",
+      "title": "Orthophotographie 7",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/7.jpg"
+    },
+    {
+      "id": 8,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497982/cips/poles/geospatial/geospatial-8.jpg",
+      "title": "Orthophotographie 8",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/8.jpg"
+    },
+    {
+      "id": 9,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497985/cips/poles/geospatial/geospatial-9.jpg",
+      "title": "Orthophotographie 9",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/9.jpg"
+    },
+    {
+      "id": 10,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497989/cips/poles/geospatial/geospatial-10.jpg",
+      "title": "Orthophotographie 10",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/10.jpg"
+    },
+    {
+      "id": 11,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497993/cips/poles/geospatial/geospatial-11.jpg",
+      "title": "Orthophotographie 11",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/11.jpg"
+    },
+    {
+      "id": 12,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497996/cips/poles/geospatial/geospatial-12.jpg",
+      "title": "Orthophotographie 12",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/12.jpg"
+    },
+    {
+      "id": 13,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763497999/cips/poles/geospatial/geospatial-13.jpg",
+      "title": "Orthophotographie 13",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/13.jpg"
+    },
+    {
+      "id": 14,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763498002/cips/poles/geospatial/geospatial-14.jpg",
+      "title": "Orthophotographie 14",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/14.jpg"
+    },
+    {
+      "id": 15,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763498005/cips/poles/geospatial/geospatial-15.jpg",
+      "title": "Orthophotographie 15",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/15.jpg"
+    },
+    {
+      "id": 16,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763498009/cips/poles/geospatial/geospatial-16.jpg",
+      "title": "Orthophotographie 16",
+      "originalPath": "/Contenue visuel pole TGS - Recadres/16.jpg"
+    }
+  ],
+  "uploadedAt": "2025-11-18T20:33:30.842Z"
+}

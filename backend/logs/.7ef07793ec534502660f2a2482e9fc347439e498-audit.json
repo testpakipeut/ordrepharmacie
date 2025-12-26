@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\ztoure\\WORKSPACE\\ordrepharmacie\\backend\\logs\\.7ef07793ec534502660f2a2482e9fc347439e498-audit.json",
+    "files": [
+        {
+            "date": 1766505403195,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\ordrepharmacie\\backend\\logs\\app-2025-12-23.log",
+            "hash": "0b0febfd3bdbb9152210d52aa84931957eba283bdb33413fb998a176276ed6ee"
+        },
+        {
+            "date": 1766581956841,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\ordrepharmacie\\backend\\logs\\app-2025-12-24.log",
+            "hash": "77e3b0d0dd1ed888f8d2749558976aa39ddf045fec121d38cf9743c87169bea2"
+        },
+        {
+            "date": 1766680004280,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\ordrepharmacie\\backend\\logs\\app-2025-12-25.log",
+            "hash": "25439c06f9af6c00df4e21e40f82a132daf6a7e0b955e7a2be5d16287db3aa69"
+        },
+        {
+            "date": 1766714780870,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\ordrepharmacie\\backend\\logs\\app-2025-12-26.log",
+            "hash": "7c56d61da91e481d44a9041412c87be5cfb00d08e09989116484c0d7c9185727"
+        }
+    ],
+    "hashType": "sha256"
+}

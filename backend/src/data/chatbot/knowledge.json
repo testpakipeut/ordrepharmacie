@@ -1,0 +1,100 @@
+[
+  {
+    "id": "contact-coordonnees",
+    "pole": "global",
+    "tags": ["contact", "téléphone", "email", "adresse", "coordonnées"],
+    "title": "Coordonnées de CIPS",
+    "content": "Vous pouvez nous contacter par téléphone au +241 04 80 23 44, par email à contact@cips-gabon.com ou nous rendre visite à Libreville, Gabon. Vous pouvez également échanger avec nous directement ici : https://wa.me/24104802344",
+    "url": "/contact"
+  },
+  {
+    "id": "horaires-ouverture",
+    "pole": "global",
+    "tags": ["horaires", "heures", "ouvert", "fermé"],
+    "title": "Horaires d'ouverture",
+    "content": "Les bureaux de CIPS sont ouverts du lundi au vendredi de 07h30 à 15h00. Nous sommes fermés les week‑ends et jours fériés.",
+    "url": "/contact"
+  },
+  {
+    "id": "poles-liste",
+    "pole": "global",
+    "tags": ["pôles", "services", "activités", "offres"],
+    "title": "Les pôles d'activité de CIPS",
+    "content": "CIPS dispose de cinq pôles d'expertise : Pôle Énergie, Pôle Traitement de Données Géospatiales, Pôle Drones (ODS), Pôle Santé Connectée et Pôle Sécurité Numérique.",
+    "url": "/poles"
+  },
+  {
+    "id": "localisation-cips",
+    "pole": "global",
+    "tags": ["où êtes vous", "ou etes vous", "localisation", "adresse", "situé", "situés", "où se trouve cips", "ou se trouve cips", "ou êtes-vous", "où êtes-vous"],
+    "title": "Où se trouve CIPS ?",
+    "content": "CIPS est basé à Libreville, au Gabon. Vous pouvez retrouver notre adresse exacte et un plan d'accès sur la page Contact du site.",
+    "url": "/contact"
+  },
+  {
+    "id": "energie-intro",
+    "pole": "energie",
+    "tags": ["énergie", "solaire", "photovoltaïque", "kit solaire"],
+    "title": "Pôle Énergie",
+    "content": "Le Pôle Énergie de CIPS propose des solutions d'énergies renouvelables adaptées au contexte africain : kits solaires, installations photovoltaïques, systèmes de stockage et solutions hybrides pour sécuriser l'alimentation électrique.",
+    "url": "/poles/energie"
+  },
+  {
+    "id": "geospatial-intro",
+    "pole": "geospatial",
+    "tags": ["géospatial", "cartographie", "topographie", "3D"],
+    "title": "Pôle Traitement de Données Géospatiales",
+    "content": "Le Pôle Géospatial de CIPS offre des services de collecte, traitement et modélisation de données spatiales : relevés topographiques, cartographie 2D/3D, modèles numériques de terrain et analyses spatiales.",
+    "url": "/poles/geospatial"
+  },
+  {
+    "id": "ods-intro",
+    "pole": "ods",
+    "tags": ["drones", "ODS", "inspection", "surveillance", "captation"],
+    "title": "Pôle Drones (ODS)",
+    "content": "ODS – Optimum Drone Services – est le pôle drones de CIPS dédié à l'inspection technique, la surveillance, la photogrammétrie et la captation aérienne professionnelle, ainsi qu'à la formation télépilote.",
+    "url": "/poles/ods"
+  },
+  {
+    "id": "sante-intro",
+    "pole": "sante",
+    "tags": ["santé", "télémédecine", "cabine médicale", "suivi médical"],
+    "title": "Pôle Santé Connectée",
+    "content": "Le Pôle Santé Connectée de CIPS développe des solutions de télémédecine et de suivi médical à distance, notamment à travers des cabines médicales connectées permettant d'améliorer l'accès aux soins.",
+    "url": "/poles/sante"
+  },
+  {
+    "id": "securite-intro",
+    "pole": "securite",
+    "tags": ["sécurité", "cybersécurité", "audit", "SOC"],
+    "title": "Pôle Sécurité Numérique",
+    "content": "Le Pôle Sécurité Numérique accompagne les organisations dans la sécurisation de leur système d'information : audits de sécurité, supervision SOC, protection des données sensibles et développement de solutions sécurisées.",
+    "url": "/poles/securite"
+  },
+  {
+    "id": "devis-intro",
+    "pole": "global",
+    "tags": ["devis", "tarif", "prix", "budget", "projet"],
+    "title": "Demande de devis",
+    "content": "Pour obtenir un devis personnalisé, vous pouvez remplir le formulaire de demande de devis sur le site CIPS ou nous contacter directement par téléphone ou email en décrivant votre projet.",
+    "url": "/devis"
+  },
+  {
+    "id": "simulateur-energie",
+    "pole": "energie",
+    "tags": ["simulation", "simulateur", "simulateur énergétique", "simulateur energie", "estimation consommation", "dimensionnement"],
+    "title": "Simulateur énergétique CIPS",
+    "content": "Le simulateur énergétique CIPS vous permet d'estimer rapidement vos besoins et la solution solaire adaptée (puissance, stockage, etc.). Vous pouvez lancer une simulation en ligne directement depuis l'outil dédié.",
+    "url": "https://csip.up.railway.app/simulateur"
+  },
+  {
+    "id": "carriere-intro",
+    "pole": "global",
+    "tags": ["carrière", "emploi", "recrutement", "job"],
+    "title": "Carrières chez CIPS",
+    "content": "CIPS recrute régulièrement des profils techniques et fonctionnels dans ses différents pôles. Les offres d'emploi disponibles sont consultables sur la page Carrières du site.",
+    "url": "/carrieres"
+  }
+]
+
+

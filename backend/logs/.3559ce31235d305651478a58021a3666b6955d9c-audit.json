@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\.3559ce31235d305651478a58021a3666b6955d9c-audit.json",
+    "files": [
+        {
+            "date": 1765191186665,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\app-2025-12-08.log",
+            "hash": "e3f9ef6647247e2ae1865dc4c93a3de3313e2920e040312b29ce0558d46fa24e"
+        },
+        {
+            "date": 1765883737752,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\app-2025-12-16.log",
+            "hash": "0199b8cc54d8745c56823a1255581adb084e1e5cd907df06f59c30131fbb0d8a"
+        },
+        {
+            "date": 1765992482184,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\app-2025-12-17.log",
+            "hash": "4df6b3ee5b0703750a4e804f3cff35d4c69c1e914c46f7620af336b4ba75703f"
+        },
+        {
+            "date": 1766049145186,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\app-2025-12-18.log",
+            "hash": "63deb60ffef363207d62271d37e3001ac4a8074f6631e28d4cafacff1c6f933f"
+        },
+        {
+            "date": 1766328292893,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\app-2025-12-21.log",
+            "hash": "fcd90287b9ee177d9125726605a5a82c33fe0cb4fc5a9926b1be28abe19df5a6"
+        },
+        {
+            "date": 1766359330635,
+            "name": "C:\\Users\\ztoure\\WORKSPACE\\CSIP\\backend\\logs\\app-2025-12-22.log",
+            "hash": "f1ef6a32e5f1b53dcc5a7d5ad21041e2a1a39caa3bb55bcc160edf9a37a46c33"
+        }
+    ],
+    "hashType": "sha256"
+}

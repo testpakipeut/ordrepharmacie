@@ -1,0 +1,54 @@
+ETAPE 1 - Créer le compte Google Analytics (15 minutes)
+Allez sur analytics.google.com
+Connectez-vous avec votre Gmail
+Créez une propriété "Site CIPS"
+Notez deux choses importantes :
+L'ID de mesure (G-XXXXXXXXXX)
+Le Property ID (un nombre comme 123456789)
+ETAPE 2 - Créer un Service Account Google Cloud (20 minutes)
+Allez sur console.cloud.google.com
+Créez un nouveau projet "CIPS Analytics"
+Activez l'API "Google Analytics Data API"
+Allez dans "IAM & Admin" puis "Service Accounts"
+Créez un service account "analytics-reader"
+Téléchargez le fichier JSON (il s'appellera quelque chose comme "cips-analytics-xxxxx.json")
+Gardez ce fichier précieusement
+ETAPE 3 - Donner accès au Service Account dans GA4
+Retournez sur analytics.google.com
+Allez dans Admin (roue dentée en bas à gauche)
+Colonne "Propriété" puis "Accès à la propriété"
+Cliquez sur le + bleu pour ajouter un utilisateur
+Entrez l'email du service account (dans le fichier JSON, cherchez "client_email")
+Donnez le rôle "Lecteur"
+Enregistrez
+ETAPE 4 - Configurer Railway (10 minutes)
+Allez sur railway.app, votre projet, service backend, onglet Variables, et ajoutez :
+Variable 1 :
+Nom : VITE_GA_MEASUREMENT_ID
+Valeur : G-XXXXXXXXXX (votre ID de mesure)
+Variable 2 :
+Nom : GA4_PROPERTY_ID
+Valeur : 123456789 (votre Property ID, juste le nombre)
+Variable 3 :
+Nom : GOOGLE_ANALYTICS_CREDENTIALS
+Valeur : Ouvrez le fichier JSON téléchargé, copiez TOUT le contenu et collez-le ici (tout le JSON sur une seule ligne)
+ETAPE 5 - Si vous utilisez Google Ads (optionnel)
+Créez votre campagne Google Ads normalement
+Dans Google Ads, allez dans Outils puis "Comptes liés"
+Cherchez "Google Analytics" et cliquez sur "Associer"
+Sélectionnez votre propriété GA4
+Activez "Auto-tagging"
+ETAPE 6 - Installer le package npm
+Sur votre machine locale, dans le dossier backend, lancez :
+npm install
+Puis commitez et pushez. Railway installera automatiquement le nouveau package.
+RESULTAT
+Une fois tout configuré, dans votre page admin/dashboard vous verrez :
+Combien de visiteurs
+D'où ils viennent (Google, Facebook, Direct, etc.)
+Les mots-clés de vos publicités Google Ads
+Quel mot-clé a généré combien de devis
+Le coût par conversion
+Tout en temps réel
+Si vous ne configurez pas le Service Account, le widget affichera quand même des données de démonstration pour que vous voyiez à quoi ça ressemble.
+C'est clair maintenant ?

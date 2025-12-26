@@ -1,0 +1,61 @@
+{
+  "groupesElectrogenes": [
+    {
+      "id": 1,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502225/cips/poles/energie/image-electrogene-1.jpg",
+      "title": "Groupe électrogène 1",
+      "originalPath": "/pole-energie-images/energie electrogene 4.jpg"
+    },
+    {
+      "id": 2,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502228/cips/poles/energie/image-electrogene-2.jpg",
+      "title": "Groupe électrogène 2",
+      "originalPath": "/pole-energie-images/energie electrogene  5.jpg"
+    },
+    {
+      "id": 3,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502231/cips/poles/energie/image-electrogene-3.jpg",
+      "title": "Groupe électrogène 3",
+      "originalPath": "/pole-energie-images/energie electrogene  6.jpg"
+    },
+    {
+      "id": 4,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502234/cips/poles/energie/image-electrogene-4.jpg",
+      "title": "Groupe électrogène 4",
+      "originalPath": "/pole-energie-images/energie electrogene  7.jpg"
+    }
+  ],
+  "panneauxSolaires": [
+    {
+      "id": 1,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502235/cips/poles/energie/image-1.jpg",
+      "title": "Panneau solaire 1",
+      "originalPath": "/pole-energie-images/energie 1.jpg"
+    },
+    {
+      "id": 2,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502238/cips/poles/energie/image-2.jpg",
+      "title": "Panneau solaire 2",
+      "originalPath": "/pole-energie-images/energie 2.jpg"
+    },
+    {
+      "id": 3,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502241/cips/poles/energie/image-3.jpg",
+      "title": "Panneau solaire 3",
+      "originalPath": "/pole-energie-images/energie 3.jpg"
+    },
+    {
+      "id": 4,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502244/cips/poles/energie/image-4.jpg",
+      "title": "Panneau solaire 4",
+      "originalPath": "/pole-energie-images/energie 8.jpg"
+    },
+    {
+      "id": 5,
+      "path": "https://res.cloudinary.com/drbaadexk/image/upload/v1763502247/cips/poles/energie/image-5.jpg",
+      "title": "Panneau solaire 5",
+      "originalPath": "/pole-energie-images/energie 9.jpg"
+    }
+  ],
+  "uploadedAt": "2025-11-18T21:44:09.145Z"
+}
